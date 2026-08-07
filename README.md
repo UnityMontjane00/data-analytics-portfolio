@@ -13,6 +13,4 @@ SQL Server projects focused on querying, transforming, analysing, and extracting
 [View Project]( https://github.com/UnityMontjane00/SuperMart-TSQL-Capstone)
 
 
-**Technologies:** Python, Pandas, NumPy, scikit-learn
 
-[View Project](PYTHON-REPOSITORY-LINK)
