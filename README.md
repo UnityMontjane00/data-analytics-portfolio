@@ -10,9 +10,9 @@ My approach is:
 
 **Prepare → Query → Analyse → Visualise → Communicate**
 
----
 
-## 🔎 My Analytics Approach
+
+## My Analytics Approach
 
 Different analytical problems require different tools.
 
@@ -32,9 +32,9 @@ Excel is useful for working directly with business data, performing initial data
 * Charts
 * Basic business analysis
 
-📁 **[Explore Excel Projects](EXCEL-REPOSITORY-LINK)**
+ **[Explore Excel Projects](EXCEL-REPOSITORY-LINK)**
 
----
+
 
 ### SQL — Query & Transform
 
@@ -54,7 +54,7 @@ SQL allows me to work with structured relational data and extract reliable infor
 * Business-focused querying
 
 [View Project]( https://github.com/UnityMontjane00/SuperMart-TSQL-Capstone)
----
+
 
 ### Python — Investigate & Analyse
 
@@ -74,9 +74,9 @@ Python provides an opportunity to go beyond standard querying and investigate da
 * Pattern and trend analysis
 * Analytical reasoning
 
-📁 **[Explore Python Projects](PYTHON-REPOSITORY-LINK)**
+**[Explore Python Projects](PYTHON-REPOSITORY-LINK)**
 
----
+
 
 ### Power BI — Communicate & Enable Decisions
 
@@ -97,9 +97,8 @@ Power BI is used to transform analysed data into interactive dashboards and repo
 
 📁 **[Explore Power BI Projects](POWER-BI-REPOSITORY-LINK)**
 
----
 
-# 🔄 The Complete Analytics Workflow
+# The Complete Analytics Workflow
 
 A typical business problem might begin with a messy dataset.
 
@@ -135,7 +134,6 @@ The tools are therefore not isolated skills.
 
 They form part of a broader analytical workflow.
 
----
 
 # 🛒 Featured Case Study — SuperMart
 
@@ -157,7 +155,6 @@ Transform the findings into an interactive business intelligence dashboard desig
 
 This creates an end-to-end analytical story rather than three disconnected projects.
 
----
 
 # 🧠 What This Portfolio Demonstrates
 
@@ -182,7 +179,6 @@ I aim to demonstrate the ability to:
 * Communicate insights clearly
 * Translate analysis into actionable recommendations
 
----
 
 # 🛠️ Technologies
 
@@ -205,9 +201,7 @@ The individual projects remain in their own repositories so that each project ca
 
 This repository brings those projects together into one coherent analytics portfolio.
 
----
-
-## 🎯 The Goal
+## The Goal
 
 The ultimate goal is not to become dependent on a particular tool.
 
@@ -228,25 +222,6 @@ It is to become capable of moving from:
 The tools are simply the means of getting there.
 
 
-
-
-
-
-
-
-# Data Analytics Portfolio
-
-A collection of data analytics projects focused on data preparation, SQL analysis, Excel, business intelligence, and data-driven decision-making.
-
-## Projects
-
-### SQL Data Analytics
-
-SQL Server projects focused on querying, transforming, analysing, and extracting insights from structured data.
-
-**Technologies:** Microsoft SQL Server, T-SQL, SSMS
-
-[View Project]( https://github.com/UnityMontjane00/SuperMart-TSQL-Capstone)
 
 
 
