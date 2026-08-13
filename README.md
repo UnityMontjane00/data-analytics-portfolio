@@ -135,28 +135,7 @@ The tools are therefore not isolated skills.
 They form part of a broader analytical workflow.
 
 
-# 🛒 Featured Case Study — SuperMart
-
-One of the main projects in this portfolio is the **SuperMart** business case.
-
-The project is being developed across multiple analytical stages to demonstrate how the same business context can be approached using different tools.
-
-### SQL
-
-Use relational data to answer business questions through structured queries and analysis.
-
-### Python
-
-Extend the analysis by exploring the data, identifying trends and patterns, and generating deeper insights.
-
-### Power BI
-
-Transform the findings into an interactive business intelligence dashboard designed for decision-makers.
-
-This creates an end-to-end analytical story rather than three disconnected projects.
-
-
-# 🧠 What This Portfolio Demonstrates
+# What This Portfolio Demonstrates
 
 Rather than simply saying:
 
@@ -179,8 +158,7 @@ I aim to demonstrate the ability to:
 * Communicate insights clearly
 * Translate analysis into actionable recommendations
 
-
-# 🛠️ Technologies
+#  Technologies
 
 | Area                   | Tools                        |
 | ---------------------- | ---------------------------- |
@@ -191,9 +169,8 @@ I aim to demonstrate the ability to:
 | Business Intelligence  | Microsoft Power BI           |
 | Version Control        | Git & GitHub                 |
 
----
 
-# 📂 Portfolio Structure
+# Portfolio Structure
 
 This repository serves as a **central hub** for my data analytics work.
 
