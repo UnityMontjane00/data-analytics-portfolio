@@ -158,18 +158,6 @@ I aim to demonstrate the ability to:
 * Communicate insights clearly
 * Translate analysis into actionable recommendations
 
-#  Technologies
-
-| Area                   | Tools                        |
-| ---------------------- | ---------------------------- |
-| Spreadsheet Analysis   | Microsoft Excel              |
-| Database Analysis      | Microsoft SQL Server / T-SQL |
-| Programming & Analysis | Python, Pandas, NumPy        |
-| Visualisation          | Matplotlib, Seaborn          |
-| Business Intelligence  | Microsoft Power BI           |
-| Version Control        | Git & GitHub                 |
-
-
 # Portfolio Structure
 
 This repository serves as a central hub for my data analytics work.
