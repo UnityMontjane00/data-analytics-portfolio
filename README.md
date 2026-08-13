@@ -172,7 +172,7 @@ I aim to demonstrate the ability to:
 
 # Portfolio Structure
 
-This repository serves as a **central hub** for my data analytics work.
+This repository serves as a central hub for my data analytics work.
 
 The individual projects remain in their own repositories so that each project can contain its own datasets, analysis, documentation, queries, notebooks, dashboards and supporting materials.
 
