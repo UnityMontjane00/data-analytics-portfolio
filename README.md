@@ -55,6 +55,26 @@ SQL allows me to work with structured relational data and extract reliable infor
 
 [View Project]( https://github.com/UnityMontjane00/SuperMart-TSQL-Capstone)
 
+### Python — Investigate & Analyse
+
+> *“I can take data further — clean it, explore it, visualise it, identify patterns and turn those patterns into insights.”*
+
+Python provides an opportunity to go beyond standard querying and investigate data programmatically.
+
+*Skills demonstrated:*
+
+* Python
+* Pandas
+* NumPy
+* Data cleaning
+* Exploratory Data Analysis
+* Descriptive statistics
+* Data visualisation
+* Pattern and trend analysis
+* Analytical reasoning
+
+  [View Project](https://github.com/UnityMontjane00/SuperMart_Python_Data_Analysis))
+
 
 
 
