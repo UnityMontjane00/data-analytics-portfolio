@@ -32,7 +32,7 @@ Excel is useful for working directly with business data, performing initial data
 * Charts
 * Basic business analysis
 
- **[View Project](https://github.com/UnityMontjane00/SuperMart-Excel-BI-Capstone))**
+ **[View Project](https://github.com/UnityMontjane00/SuperMart-Excel-BI-Capstone)**
 
 
 
