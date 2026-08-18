@@ -73,7 +73,7 @@ Python provides an opportunity to go beyond standard querying and investigate da
 * Pattern and trend analysis
 * Analytical reasoning
 
-  [View Project](https://github.com/UnityMontjane00/SuperMart_Python_Data_Analysis))
+  [View Project](https://github.com/UnityMontjane00/SuperMart_Python_Data_Analysis)
 
 
 
