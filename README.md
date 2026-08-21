@@ -92,9 +92,7 @@ Power BI is used to transform analysed data into interactive dashboards and repo
 * Business intelligence
 * Data storytelling
 
-[View Project]((https://github.com/UnityMontjane00/SuperMart-PowerBI-Business-Intelligence)
-
-
+[View Project](https://github.com/UnityMontjane00/SuperMart-PowerBI-Business-Intelligence)
 
 # Portfolio Structure
 
