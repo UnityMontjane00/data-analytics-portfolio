@@ -75,6 +75,55 @@ Python provides an opportunity to go beyond standard querying and investigate da
 
   [View Project](https://github.com/UnityMontjane00/SuperMart_Python_Data_Analysis)
 
+  ### Power BI — Communicate & Enable Decisions
+
+> *“I can take those insights and present them in an interactive dashboard for managers and stakeholders.”*
+
+Power BI is used to transform analysed data into interactive dashboards and reports that communicate important business information clearly.
+
+*Skills demonstrated:*
+
+* Data modelling
+* Data transformation
+* DAX
+* Interactive dashboards
+* KPIs
+* Data visualisation
+* Business intelligence
+* Data storytelling
+
+[View Project]((https://github.com/UnityMontjane00/SuperMart-PowerBI-Business-Intelligence)
+
+
+
+# Portfolio Structure
+
+This repository serves as a central hub for my data analytics work.
+
+The individual projects remain in their own repositories so that each project can contain its own datasets, analysis, documentation, queries, notebooks, dashboards and supporting materials.
+
+This repository brings those projects together into one coherent analytics portfolio.
+
+## The Goal
+
+The ultimate goal is not to become dependent on a particular tool.
+
+It is to become capable of moving from:
+
+*Business Question*
+
+→ *Data*
+
+→ *Analysis*
+
+→ *Insight*
+
+→ *Communication*
+
+→ *Decision*
+
+The tools are simply the means of getting there.
+
 
 
 
